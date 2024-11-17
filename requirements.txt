@@ -1,0 +1,6 @@
+streamlit==1.31.1
+pandas==2.2.0
+plotly==5.18.0
+gspread==5.12.4
+gspread-dataframe==3.3.1
+python-dotenv==1.0.1
